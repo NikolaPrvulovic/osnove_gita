@@ -1,3 +1,2 @@
 # osnove_gita
-# osnove_gita
-# osnove_gita
+tekst tekst tekst
