@@ -1,6 +1,5 @@
 .idea/
-documentation/*
+documentation/*.pdf
 *2022
-*.pdf
 logs_nesto_nesto/
 library/*.zip
