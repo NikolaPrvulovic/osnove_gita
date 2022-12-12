@@ -1,7 +1,3 @@
-#sve foldere koji u nazivu imaju godinu 2022
-#sve fajlove koji imaju ekstenziju .pdf
-#sve fajlove iz foldera sa prefiksom logs_
-#sve fajlove iz foldera library koji se zavrsaavju na .zip
 .idea/
 *2022
 *.pdf
