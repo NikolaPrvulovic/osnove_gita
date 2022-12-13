@@ -4,3 +4,9 @@ documentation/*.pdf
 logs_nesto_nesto/
 library/*.zip
 svastara/
+
+.users
+.db
+.properties
+.keys
+.pem
